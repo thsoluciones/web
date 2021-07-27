@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806727019249",
+    "project_id": "medical-register-96255",
+    "storage_bucket": "medical-register-96255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806727019249:android:2d2af5bd195ea1feccd750",
+        "android_client_info": {
+          "package_name": "com.example.expediente_clinico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806727019249-2e7c4qj1rs66epvukeseo0dhsv1ge8a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRm_5JQ37FpPKUZ58LW8c77IB4QDBOeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806727019249-2e7c4qj1rs66epvukeseo0dhsv1ge8a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
